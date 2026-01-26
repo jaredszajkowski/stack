@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://www.jaredszajkowski.com"
+baseurl = "https://www.jaredszajkowski.com/stack/"
 languageCode = "en-us"
 # paginate = 10 # old config key
 pagination.pagerSize = 10
